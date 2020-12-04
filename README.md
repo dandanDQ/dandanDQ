@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Front-end engineer who don’t want to be UI designer is not an excellent product manager.
+Front-end engineer who don’t want to be a UI designer is not an excellent product manager.
 
 <!--
 **dandanDQ/dandanDQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -62,6 +62,7 @@ Here are some ideas to get you started:
 <a href="https://dandandq.github.io/front-end-blog/">
   <img src="https://github-readme-stats.vercel.app/api?username=dandanDQ&show_icons=true" />
 </a>
+
 <a href="https://dandandq.github.io/front-end-blog/">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandanDQ&layout=compact" />
 </a>
