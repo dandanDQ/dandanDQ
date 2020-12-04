@@ -59,13 +59,17 @@ Here are some ideas to get you started:
 ### 📅 Statistics
 
 
+<p align="center"> 
 <a href="https://dandandq.github.io/front-end-blog/">
   <img src="https://github-readme-stats.vercel.app/api?username=dandanDQ&show_icons=true" />
 </a>
+</p>
 
+<p align="center"> 
 <a href="https://dandandq.github.io/front-end-blog/">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandanDQ&layout=compact" />
 </a>
+</p>
 
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/dandanDQ/count.svg" />
