@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 ### 🛠 技能和工具
 
 
-##### language
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
@@ -29,24 +28,13 @@ Here are some ideas to get you started:
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white)
 ![React native](https://img.shields.io/badge/-React_native-61DAFB?style=flat-square&logo=React&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=Unity&logoColor=white)
-
-##### more about frontend
-
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![antdesign](https://img.shields.io/badge/-AntDesign-563D7C?style=flat-square&logo=Ant-Design)
 ![vuetify](https://img.shields.io/badge/-Vuetify-1867C0?style=flat-square&logo=Vuetify)
 ![Vue.js](https://img.shields.io/badge/-Vuejs-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=gray)
-
-##### tools
-
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-
-##### design
-
-
 ![PhothoShop](https://img.shields.io/badge/-PhotoShop-071D34?style=flat-square&logo=Adobe-Photoshop&logoColor=54A7F8)
 ![InDesign](https://img.shields.io/badge/-InDesign-EE3D8F?style=flat-square&logo=Adobe-InDesign&logoColor=white)
 ![Lightroom](https://img.shields.io/badge/-Lightroom-31A8FF?style=flat-square&logo=Adobe-Lightroom-Classic&logoColor=white)
