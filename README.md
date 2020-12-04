@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+Front-end engineer who don’t want to be UI designer is not an excellent product manager.
+
 <!--
 **dandanDQ/dandanDQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,6 +31,8 @@ Here are some ideas to get you started:
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white)
 ![React native](https://img.shields.io/badge/-React_native-61DAFB?style=flat-square&logo=React&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=Unity&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![antdesign](https://img.shields.io/badge/-AntDesign-563D7C?style=flat-square&logo=Ant-Design)
