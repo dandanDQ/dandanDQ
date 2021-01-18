@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 💬 [My blog](https://dandandq.github.io/front-end-blog/)
+### 💬 [my blog](https://dandandq.github.io/front-end-blog/)
 
 ### 🛠 skills
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ![antdesign](https://img.shields.io/badge/-AntDesign-563D7C?style=flat-square&logo=Ant-Design)
 ![vuetify](https://img.shields.io/badge/-Vuetify-1867C0?style=flat-square&logo=Vuetify)
 
-#### Where has the Time gone?
+#### Where does the time goes? -- skills learns during university.
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![Matlab](https://img.shields.io/badge/-Matlab-0076A8?style=flat-square&logo=Mathworks&logoColor=white)
