@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 💬 [My blog](https://dandandq.github.io/front-end-blog/)
 
 ### 🛠 skills
-#### core
+
+#### focus on front-end
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
@@ -32,7 +34,8 @@ Here are some ideas to get you started:
 ![antdesign](https://img.shields.io/badge/-AntDesign-563D7C?style=flat-square&logo=Ant-Design)
 ![vuetify](https://img.shields.io/badge/-Vuetify-1867C0?style=flat-square&logo=Vuetify)
 
-#### others
+#### Where has the Time gone?
+
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![Matlab](https://img.shields.io/badge/-Matlab-0076A8?style=flat-square&logo=Mathworks&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?style=flat-square&logo=openGL&logoColor=white)
