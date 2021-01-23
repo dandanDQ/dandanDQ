@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 💬 [my blog](https://dandandq.github.io/front-end-blog/)
+### 💬 [My front-end blog](https://dandandq.github.io/front-end-blog/)
 
 The job's not over until the paperwork's done.
 
