@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 -->
 ### 💬 [my blog](https://dandandq.github.io/front-end-blog/)
 
+The job's not over until the paperwork's done.
+
 ### 🛠 skills
 
 #### focus on front-end
