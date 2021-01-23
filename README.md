@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 💬 [My front-end blog](https://dandandq.github.io/front-end-blog/)
+### 💬 [My Front-end Blog](https://dandandq.github.io/front-end-blog/)
 
 The job's not over until the paperwork's done.
 
@@ -53,7 +53,10 @@ The job's not over until the paperwork's done.
 ![PPT](https://img.shields.io/badge/-PPT-B7472A?style=flat-square&logo=Microsoft-PowerPoint&logoColor=white)
 ...
 
-### 💬 contact me
+### 🔖 Projects
+
+
+### 💬 Contact me
 
 ![sss](https://img.shields.io/badge/-shendanqiong@qq.com-c14438?style=flat-square&logo=Mail.Ru&logoColor=white)
 ![Wechat Badge](https://img.shields.io/badge/-shen_danqiong-7BB32E?style=flat-square&logo=wechat&logoColor=white)
