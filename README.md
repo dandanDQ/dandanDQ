@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 The job's not over until the paperwork's done.
 
-### 🛠 skills
+### 🛠 Skills
 
 #### focus on front-end
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -53,14 +53,9 @@ The job's not over until the paperwork's done.
 ![PPT](https://img.shields.io/badge/-PPT-B7472A?style=flat-square&logo=Microsoft-PowerPoint&logoColor=white)
 ...
 
-### 🔖 Projects
-
-
 ### 💬 Contact me
 
-![sss](https://img.shields.io/badge/-shendanqiong@qq.com-c14438?style=flat-square&logo=Mail.Ru&logoColor=white)
-![Wechat Badge](https://img.shields.io/badge/-shen_danqiong-7BB32E?style=flat-square&logo=wechat&logoColor=white)
-![QQ Badge](https://img.shields.io/badge/-841294760-3563d5?style=flat-square&logo=Tencent-QQ)
+![shendanqiong@qq.com](https://img.shields.io/badge/-shendanqiong@qq.com-c14438?style=flat-square&logo=Mail.Ru&logoColor=white)
 
 
 ### 📅 Statistics
