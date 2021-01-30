@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-
 Front-end engineer who don’t want to be a UI designer is not an excellent product manager.
 
 <!--
@@ -19,7 +18,8 @@ Here are some ideas to get you started:
 -->
 ### 💬 [My Front-end Blog](https://dandandq.github.io/front-end-blog/)
 
-The job's not over until the paperwork's done.
+The job's not over until the paperwork's done. 
+since 2020-07
 
 ### 🛠 Skills
 
