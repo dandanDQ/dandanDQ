@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 💬 [My Front-end Blog](https://dandandq.github.io/front-end-blog/)
+<!-- ### 💬 [My Front-end Blog](https://dandandq.github.io/front-end-blog/)
 
 The job's not over until the paperwork's done. 
-since 2020-07
+since 2020-07 -->
 
 ### 🛠 Skills
 
