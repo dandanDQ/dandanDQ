@@ -35,7 +35,7 @@ The job's not over until the paperwork's done.
 ![antdesign](https://img.shields.io/badge/-AntDesign-563D7C?style=flat-square&logo=Ant-Design)
 ![vuetify](https://img.shields.io/badge/-Vuetify-1867C0?style=flat-square&logo=Vuetify)
 
-#### Where does the time goes? -- skills learns during university.
+#### Where does the time go? -- skills learned during university.
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![Matlab](https://img.shields.io/badge/-Matlab-0076A8?style=flat-square&logo=Mathworks&logoColor=white)
