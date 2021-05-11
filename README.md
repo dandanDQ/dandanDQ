@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Front-end engineer who don’t want to be a UI designer is not an excellent product manager.
+Know something about anything, know anything about something.
 
 <!--
 **dandanDQ/dandanDQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
