@@ -2,23 +2,6 @@
 
 Know something about anything, know anything about something.
 
-<!--
-**dandanDQ/dandanDQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### 💬 [My Front-end Blog](https://dandandq.github.io/front-end-blog/)   &nbsp; &nbsp;  [ BUILDING ]
-
-The job's not over until the paperwork's done. 
 
 ### 🛠 Skills
 
@@ -28,14 +11,13 @@ The job's not over until the paperwork's done.
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Vue.js](https://img.shields.io/badge/-Vuejs-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Vue2.x](https://img.shields.io/badge/-Vuejs-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![React native](https://img.shields.io/badge/-React_native-61DAFB?style=flat-square&logo=React&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=gray)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![antdesign](https://img.shields.io/badge/-AntDesign-563D7C?style=flat-square&logo=Ant-Design)
 ![vuetify](https://img.shields.io/badge/-Vuetify-1867C0?style=flat-square&logo=Vuetify)
 
-#### Where does the time go? -- skills learned during university.
+#### Other skills
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![Matlab](https://img.shields.io/badge/-Matlab-0076A8?style=flat-square&logo=Mathworks&logoColor=white)
@@ -55,6 +37,12 @@ The job's not over until the paperwork's done.
 ### 💬 Contact me
 
 ![shendanqiong@qq.com](https://img.shields.io/badge/-shendanqiong@qq.com-c14438?style=flat-square&logo=Mail.Ru&logoColor=white)
+
+
+### 📚 Projects
+
+
+<a href="https://dandandq.github.io/resume/" target="_blank">在线写简历</a>
 
 
 ### 📅 Statistics
